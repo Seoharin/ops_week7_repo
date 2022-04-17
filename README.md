@@ -10,5 +10,5 @@ week7 assignment 2018116038 seoharin
 
 
 
-# Explaination of github-api-test.py
+# Explanation of github-api-test.py
 after get api(from 'https://api.github.com/users/Seoharin') with requests, print json data using pprint to comfortable view
